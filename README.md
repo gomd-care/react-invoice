@@ -37,7 +37,7 @@ If you are not satisfied with the display of any component, you can redefine it 
 
 Create react white-label Plisio invoice. Css file has been extracted to separate file, so you could include it manually or customize the styles yourself.
 
-```
+```jsx
 import React, { useState, useEffect, useRef } from 'react'
 import ReactDOM from 'react-dom'
 import Invoice from '@plisio/react-invoice'
