@@ -1,5 +1,5 @@
 {
-  "name": "@plisio/react-invoice",
+  "name": "@gomd/react-invoice",
   "version": "1.0.2",
   "private": false,
   "main": "dist/index.js",
@@ -16,8 +16,8 @@
     "build": "webpack --mode production --config ./webpack/prod.config.js"
   },
   "peerDependencies": {
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
@@ -47,11 +47,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Plisio/react-invoice.git"
+    "url": "https://github.com/gomd-care/react-invoice"
   },
-  "homepage": "https://github.com/Plisio/react-invoice#readme",
+  "homepage": "https://github.com/gomd-care/react-invoice#readme",
   "bugs": {
-    "url": "https://github.com/Plisio/react-invoice/issues",
+    "url": "https://github.com/gomd-care/react-invoice/issues",
     "email": "webdev@plisio.net"
   },
   "description": "React invoice component for Plisio payment processing",
